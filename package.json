@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "task-01.js",
-  "homepage": "https://sssmirnov222.github.io/",
+  "homepage": "https://sssmirnov222.github.io/John-Doe",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy":"gh-pages -d disc"
   },
   "keywords": [],
   "author": "",
