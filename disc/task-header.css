@@ -1,0 +1,36 @@
+.container {
+    height: 40px;
+    width: 100%;
+    background: rgb(73, 48, 73);
+}
+.navigation{
+   display: flex;
+   justify-content: end;
+   align-items: center;
+}
+.reference {
+    color: rgb(158, 150, 150);
+    font-size: 12px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    margin-right: 15px;
+}
+.John_Doe {
+   display: flex;
+   align-items: center;
+   height: 40px;
+   width: 150px;
+   background:#82B1FF;
+}
+.JonhDoe_image {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  border: 2px solid white;
+  margin-left: 10px;
+}
+.text_JobDoe {
+   color: white;
+   margin-left: 20px;
+   font-size: 15px;
+}
