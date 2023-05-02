@@ -1,0 +1,24 @@
+.footer {
+    height: 40px;
+    width: 100%;
+    background: rgb(73, 48, 73);
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.link_footer {
+    height: 40px;
+    width: 50px;
+    background: rgb(80, 56, 80);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.link_footer_customization {
+    height: 40px;
+    width: 50px;
+    background: rgb(45, 97, 194);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
